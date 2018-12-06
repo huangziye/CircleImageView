@@ -1,6 +1,10 @@
 
 [![](https://jitpack.io/v/huangziye/CircleImageView.svg)](https://jitpack.io/#huangziye/CircleImageView)
 
+# Description
+
+A fast circular ImageView perfect for profile images. This is based on [RoundedImageView from Vince Mi](https://github.com/vinc3m1/RoundedImageView) which itself is based on [techniques recommended by Romain Guy](http://www.curious-creature.com/2012/12/11/android-recipe-1-image-with-rounded-corners/).
+
 # Add ` CircleImageView ` to project
 
 - Step 1：Add the JitPack repository to your build file
