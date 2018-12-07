@@ -36,7 +36,7 @@ dependencies {
 # Effect picture
 
 
-![圆形图片效果图](https://github.com/huangziye/CircleImageView/blob/master/screenshot/CircleImageView.png)
+![圆形图片效果图](https://raw.githubusercontent.com/huangziye/CircleImageView/d2723ed21cfb71a93515f10f01578bcd60a3e204/screenshot/CircleImageView.png)
 
 
 # Usage
